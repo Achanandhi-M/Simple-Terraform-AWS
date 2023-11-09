@@ -1,1 +1,1 @@
-# Simple-Terrafrom-AWS
+# Simple-Terraform-AWS
